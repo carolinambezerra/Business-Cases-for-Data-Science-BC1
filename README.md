@@ -10,5 +10,5 @@ Until 2015 hotel chain C operated 4 hotels, however, with the acquisition of new
 4) Use PCA to reduce dimensionality and speed-up model development
 5) Suggest business applications for the findings
 <br />
-## Summary:
+## Summary:<br />
 The focus of this project is to understand current customers characteristics in terms of revenue brought to the company, geography, demography, psychography and consumer behavior. We the given data using the latest methods and technological tools. Our plan is to find patterns in the features of the clients, allowing us to assign each client to a different group. Customer segmentation identifies the discrete group of customers with a high level of accuracy based on current customer data. This solution will allow the business to enable its marketing department and product developers to improve their business strategy by addressing customers individually in a more effective manner. Following the creation of these clusters, we will provide some insights of our own regarding the results obtained, to help make the hotel make strategic decisions to retain and attract customers. This will include our recommendations for the deployment of our solution, as well as any monitoring and maintenance measures necessary.
